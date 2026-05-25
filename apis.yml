@@ -1,0 +1,98 @@
+aid: polycam
+name: Polycam
+description: >-
+  Polycam is a cross-platform 3D scanning and capture company building
+  consumer and professional tools for turning the physical world into
+  high-fidelity 3D content. Its iOS, Android, and web apps support
+  LiDAR-based space capture, photogrammetry, photosphere capture,
+  AI-generated 3D models, and Gaussian Splat reconstructions, with export
+  formats including glTF/GLB, OBJ, FBX, DAE, STL, USDZ, point clouds, and
+  CAD-friendly files. Polycam serves freelancers, AEC and real-estate
+  teams, VFX and game studios, e-commerce sellers, and enterprise
+  operators with 2D/3D floor plans, measurement tools, shared team
+  libraries, virtual walkthroughs, AI reports, custom branding, SSO, and
+  TransformEngine for custom 3D file creation. Revenue is subscription
+  based across Free, Basic ($30/mo or $150/yr), Business ($400/yr per
+  user), and Enterprise tiers, with sales-led pricing for organizations
+  at scale. Polycam exposes a developer mode in the iOS app that unlocks
+  a raw-data export bundle (raw.glb mesh, keyframes, images, cameras,
+  depth maps, confidence data, mesh_info.json) used by partners such as
+  Vuforia, Immersal, and Unity/Unreal workflows, and ships an open-source
+  Python toolkit (polyform) for converting raw captures to NeRF and other
+  research formats. As of this profile there is no public REST API,
+  OpenAPI specification, or developer portal — integrations happen
+  through raw exports, partner pipelines, and the Polycam app surface
+  itself.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - 3D Scanning
+  - 3D Capture
+  - Photogrammetry
+  - LiDAR
+  - Gaussian Splatting
+  - NeRF
+  - Floor Plans
+  - Drone Mapping
+  - Spatial Computing
+  - Mobile Capture
+  - AEC
+  - VFX
+  - Mesh Export
+  - glTF
+  - USDZ
+url: https://raw.githubusercontent.com/api-evangelist/polycam/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://poly.cam
+  - type: Pricing
+    url: https://poly.cam/pricing
+  - type: ObjectCapture
+    url: https://poly.cam/object-capture
+  - type: SpaceCapture
+    url: https://poly.cam/space-capture
+  - type: FloorPlans
+    url: https://poly.cam/floor-plans
+  - type: Drone
+    url: https://poly.cam/drone
+  - type: Tools
+    url: https://poly.cam/tools
+  - type: Solutions
+    url: https://poly.cam/solutions
+  - type: LearningHub
+    url: https://learn.poly.cam
+  - type: HelpCenter
+    url: https://learn.poly.cam/hc/en-us
+  - type: Community
+    url: https://poly.cam/community
+  - type: GitHub
+    url: https://github.com/PolyCam
+  - type: Polyform
+    url: https://github.com/PolyCam/polyform
+  - type: AppStore
+    url: https://apps.apple.com/us/app/polycam-lidar-3d-scanner/id1532482376
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=ai.polycam
+  - type: ContactSales
+    url: https://sales.poly.cam/demo/
+  - type: Twitter
+    url: https://twitter.com/Polycam3D
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/polycam-inc
+  - type: Instagram
+    url: https://www.instagram.com/polycam3d
+  - type: TikTok
+    url: https://www.tiktok.com/@polycam3d
+  - type: Discord
+    url: https://discord.gg/polycam
+  - type: YouTube
+    url: https://www.youtube.com/@Polycam3D
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
