@@ -1,0 +1,14 @@
+{
+  "repo": "polycam",
+  "feeds": [
+    {
+      "source": "https://poly.cam/blog",
+      "feed_url": "https://poly.cam/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 25
+}
